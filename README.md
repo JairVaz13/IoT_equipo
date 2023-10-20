@@ -3,7 +3,7 @@ somos un equipo muy unido
 
 |No|Actividad|Asignacion|Fecha de entrega|Estado[Terminado, Pendiente, Haciendo]|
 |--|--|--|--|--|
-|1.0|Definir Porblemas|Todos|20/10/2023|pendiente|
+|1.0|Definir Problemas|Todos|20/10/2023|Pendiente|
 |2.0|Antecedentes|Todos|20/10/2023|Pendiente|
 |2.1|A quien afecta|Todos|---|Pendiente|
 |2.2|Que soluciones existen|Todos|---|Pendiente|
