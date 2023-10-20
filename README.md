@@ -19,21 +19,21 @@ somos un equipo muy unido
 |5.2|Operativa|Todos|---|Pendiente|
 |5.3|Economia|Todos|---|Pendiente|
 
-###DESIGNS DOCS
-###1 Definicion del problema
-###2Antecedentes
-####2.1A quien afecta
-####2.2 Que soluciones existen
-###3 Objetivos Generales
-####3.1Meta
-###4 Requerimentos tecnicos|
-####4.1 Sensores
-####4.2 Activadores
-####4.3 APIs
-####4.4 Librerias
-###5 Viabilidad
-####5.1 Tecnica
-####5.2 Operativa
-####5.3 Economia
+### DESIGNS DOCS
+### 1 Definicion del problema
+### 2 Antecedentes
+#### 2.1A quien afecta
+#### 2.2 Que soluciones existen
+### 3 Objetivos Generales
+#### 3.1Meta
+### 4 Requerimentos tecnicos
+#### 4.1 Sensores
+#### 4.2 Activadores
+#### 4.3 APIs
+#### 4.4 Librerias
+### 5 Viabilidad
+#### 5.1 Tecnica
+#### 5.2 Operativa
+#### 5.3 Economia
 
     
