@@ -25,7 +25,7 @@ somos un equipo muy unido
 #### 2.1 A quien afecta
 #### 2.2 Que soluciones existen
 ### 3 Objetivos Generales
-##### El objetivo general de este proyecto es mejorar la gestión de plazas de estacionamiento en supermercados, garantizando la disponibilidad de espacios para personas discapacitadas y reduciendo el estacionamiento indebido.
+##### El objetivo general de este proyecto es mejorar la gestión de lugares de estacionamiento en supermercados, garantizando la disponibilidad de espacios para personas discapacitadas y reduciendo el estacionamiento indebido.
 #### 3.1 Meta
 ### 4 Requerimentos tecnicos
 #### 4.1 Sensores
