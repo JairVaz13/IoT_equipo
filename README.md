@@ -3,7 +3,7 @@ somos un equipo muy unido
 
 |No|Actividad|Asignacion|Fecha de entrega|Estado[Terminado, Pendiente, Haciendo]|
 |--|--|--|--|--|
-|1.0|Definir Problemas|Todos|20/10/2023|Pendiente|
+|1.0|Definir Problemas|Amairani|20/10/2023|Pendiente|
 |2.0|Antecedentes|Dany|20/10/2023|Pendiente|
 |2.1|A quien afecta|Brandon|20/10/2023|Pendiente|
 |2.2|Que soluciones existen|Eduardo|20/10/2023|Pendiente|
@@ -20,13 +20,17 @@ somos un equipo muy unido
 |5.3|Economia|Todos|20/10/2023|Pendiente|
 
 ### DESIGNS DOCS
+
 ### 1 Definicion del problema
+##### El problema principal que decidimos abordar es la ineficiencia en los lugares publicos que tienen estacionamiento como lo es en los supermercados, que incluye la falta de acceso adecuado para personas discapacitadas. Esto se da en la ocupación de espacios reservados por conductores no autorizados, creando un ambiente caótico y excluso en los estacionamientos de supermercados.
+
 ### 2 Antecedentes
 #### 2.1 A quien afecta
 #### 2.2 Que soluciones existen
 ### 3 Objetivos Generales
-##### El objetivo general de este proyecto es mejorar la gestión de lugares de estacionamiento en supermercados, garantizando la disponibilidad de espacios para personas discapacitadas y reduciendo el estacionamiento indebido.
 #### 3.1 Meta
+##### La meta es lograr una que la tasa de ocupación sea eficiente y justa en los estacionamientos de supermercados, con un enfoque en la disponibilidad de los supermercados para personas discapacitadas. Esto incluye reducir el estacionamiento indebido a un mínimo aceptable.
+
 ### 4 Requerimentos tecnicos
 #### 4.1 Sensores
 #### 4.2 Activadores
