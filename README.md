@@ -19,7 +19,7 @@ somos un equipo muy unido
 |5.2|Operativa|Todos|---|Pendiente|
 |5.3|Economia|Todos|---|Pendiente|
 
-###DESIFB DOCS
+###DESIGNS DOCS
 ###1 Definicion del problema
 ###2Antecedentes
 ####2.1A quien afecta
