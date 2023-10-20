@@ -32,7 +32,7 @@ somos un equipo muy unido
 ###### Gruas y Autoridades Locales: Deben intervenir en situaciones de estacionamiento indebido, lo que puede ser costoso y consumir recursos. 
 
 ### 2.2 Qué Soluciones Existen
-#####Actualmente, la gestión de estacionamientos depende en gran medida de la vigilancia humana y la señalización estática. Algunos supermercados también pueden contar con sistemas de control de acceso, pero la gestión de espacios para personas discapacitadas es a menudo un desafío no resuelto.
+##### Actualmente, la gestión de estacionamientos depende en gran medida de la vigilancia humana y la señalización estática. Algunos supermercados también pueden contar con sistemas de control de acceso, pero la gestión de espacios para personas discapacitadas es a menudo un desafío no resuelto.
 
 
 ### 3 Objetivos Generales
