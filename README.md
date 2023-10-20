@@ -20,20 +20,20 @@ somos un equipo muy unido
 |5.3|Economia|Todos|---|Pendiente|
 
 
-1.0 Definicion del problema
-2.0Antecedentes
-2.1A quien afecta
-2.2 Que soluciones existen
-3.0 Objetivos Generales
-3.1Meta
-4.0 Requerimentos tecnicos|
-4.1 Sensores
-4.2 Activadores
-4.3 APIs
-4.4 Librerias
-5.0 Viabilidad
-5.1 Tecnica
-5.2 Operativa
-5.3 Economia
+###1.0 Definicion del problema
+###2.0Antecedentes
+####2.1A quien afecta
+####2.2 Que soluciones existen
+###3.0 Objetivos Generales
+####3.1Meta
+###4.0 Requerimentos tecnicos|
+####4.1 Sensores
+####4.2 Activadores
+####4.3 APIs
+####4.4 Librerias
+###5.0 Viabilidad
+####5.1 Tecnica
+####5.2 Operativa
+####5.3 Economia
 
     
