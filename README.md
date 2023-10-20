@@ -27,7 +27,7 @@ somos un equipo muy unido
 ### 2 Antecedentes
 ### 2.1 A quien afecta
 ##### Este problema afecta a varias partes interesadas, incluyendo:
-###### Usuarios de Estacionamientos: Conductores que luchan por encontrar espacios de estacionamiento disponibles y personas discapacitadas que a menudo se ven excluidas de espacios reservados.
+##### Usuarios de Estacionamientos: Conductores que luchan por encontrar espacios de estacionamiento disponibles y personas discapacitadas que a menudo se ven excluidas de espacios reservados.
 ###### Supermercados: Experimentan problemas de congestión y la posibilidad de sanciones por no proporcionar un acceso adecuado para personas discapacitadas.
 ###### Gruas y Autoridades Locales: Deben intervenir en situaciones de estacionamiento indebido, lo que puede ser costoso y consumir recursos. 
 
