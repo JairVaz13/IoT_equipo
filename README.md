@@ -22,10 +22,10 @@ somos un equipo muy unido
 ### DESIGNS DOCS
 ### 1 Definicion del problema
 ### 2 Antecedentes
-#### 2.1A quien afecta
+#### 2.1 A quien afecta
 #### 2.2 Que soluciones existen
 ### 3 Objetivos Generales
-#### 3.1Meta
+#### 3.1 Meta
 ### 4 Requerimentos tecnicos
 #### 4.1 Sensores
 #### 4.2 Activadores
