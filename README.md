@@ -5,7 +5,7 @@ somos un equipo muy unido
 |--|--|--|--|--|
 |1.0|Definir Problemas|Amairani|20/10/2023|Pendiente|
 |2.0|Antecedentes|Dany|20/10/2023|Pendiente|
-|2.1|A quien afecta|Brandon|20/10/2023|Pendiente|
+|2.1|A quien afecta|Brandon|20/10/2023|Haciendo|
 |2.2|Que soluciones existen|Eduardo|20/10/2023|Pendiente|
 |3.0|Objetivos Generales|Jesus|20/10/2023|Pendiente|
 |3.1|Metas|Amairani|20/10/2023|Pendiente|
