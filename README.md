@@ -71,5 +71,12 @@ Una vez que se detecte un distintivo de discapacitado en una placa de coche, pue
 #### 5.1 Tecnica
 #### 5.2 Operativa
 #### 5.3 Economia
+#### 6 Normas
+### 6.1 Tramites (Documentos)
+### 6.2 Enfermedades aceptables
+### 6.3 Beneficios
+### 6.4 Costos
+### 6.5 Notas Importantes 
+### 6.6 Regulaciones para el tramite 
 
     
