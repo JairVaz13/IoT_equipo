@@ -10,10 +10,11 @@ somos un equipo muy unido
 |3.0|Objetivos Generales|Jesus|20/10/2023|Haciendo|
 |3.1|Metas|Amairani|20/10/2023|Haciendo|
 |4.0|Requerimentos tecnicos|Jair|20/10/2023|Haciendo|
-|4.1|Sensores|Todos|20/10/2023|Haciendo|
-|4.2|Activadores|Todos|20/10/2023|Haciendo|
-|4.3|APIs|Todos|20/10/2023|Haciendo|
-|4.4|Librerias|Todos|20/10/2023|Haciendo|
+|4.1|Requisitos|Brandon|24/10/2023|Haciendo|
+|4.2|Sensores|Todos|20/10/2023|Haciendo|
+|4.3|Activadores|Todos|20/10/2023|Haciendo|
+|4.4|APIs|Todos|20/10/2023|Haciendo|
+|4.5|Librerias|Todos|20/10/2023|Haciendo|
 |5.0|Viabilidad|Todos|20/10/2023|Pendiente|
 |5.1|Tecnica|Todos|20/10/2023|Pendiente|
 |5.2|Operativa|Todos|20/10/2023|Pendiente|
@@ -54,16 +55,17 @@ Gruas y Autoridades Locales: Deben intervenir en situaciones de estacionamiento 
 #### 3.1 Meta
 ##### La meta es lograr una que la tasa de ocupación sea eficiente y justa en los estacionamientos de supermercados, con un enfoque en la disponibilidad de los supermercados para personas discapacitadas. Esto incluye reducir el estacionamiento indebido a un mínimo aceptable.
 
-### 4 Requerimentos tecnicos
-### 4.1 Sensores
+### 4.0 Requerimentos tecnicos
+### 4.1 Requisitos
+### 4.2 Sensores
 ### Sensores de presencia para detectar vehículos en cada plaza de estacionamiento.
 ### Cámaras con capacidad de reconocimiento de placas de vehículos.
-### 4.2 Activadores
+### 4.3 Activadores
 ### Un sistema que pueda activar una alerta para la grúa o permitir el acceso a plazas reservadas cuando se detecte una placa válida de una persona discapacitada.
 Una vez que se detecte un distintivo de discapacitado en una placa de coche, pueda configurar el sistema para que notifique a una persona o registre la información de la placa.
-### 4.3 APIs
+### 4.4 APIs
 ### API para acceder a una base de datos de conductores discapacitados y sus permisos de estacionamiento.
-### 4.4 Librerias
+### 4.5 Librerias
 ### Posiblemente librerías para el procesamiento de imágenes y datos de sensores.
 ### 5 Viabilidad
 #### 5.1 Tecnica
