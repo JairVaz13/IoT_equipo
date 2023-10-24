@@ -60,6 +60,7 @@ Gruas y Autoridades Locales: Deben intervenir en situaciones de estacionamiento 
 ### Cámaras con capacidad de reconocimiento de placas de vehículos.
 ### 4.2 Activadores
 ### Un sistema que pueda activar una alerta para la grúa o permitir el acceso a plazas reservadas cuando se detecte una placa válida de una persona discapacitada.
+Una vez que se detecte un distintivo de discapacitado en una placa de coche, pueda configurar el sistema para que notifique a una persona o registre la información de la placa.
 ### 4.3 APIs
 ### API para acceder a una base de datos de conductores discapacitados y sus permisos de estacionamiento.
 ### 4.4 Librerias
