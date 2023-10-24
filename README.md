@@ -54,9 +54,14 @@ Gruas y Autoridades Locales: Deben intervenir en situaciones de estacionamiento 
 
 ### 4 Requerimentos tecnicos
 #### 4.1 Sensores
-#### 4.2 Activadores
-#### 4.3 APIs
-#### 4.4 Librerias
+####Sensores de presencia para detectar vehículos en cada plaza de estacionamiento.
+####Cámaras con capacidad de reconocimiento de placas de vehículos.
+### 4.2 Activadores
+####Un sistema que pueda activar una alerta para la grúa o permitir el acceso a plazas reservadas cuando se detecte una placa válida de una persona discapacitada.
+### 4.3 APIs
+####API para acceder a una base de datos de conductores discapacitados y sus permisos de estacionamiento.
+### 4.4 Librerias
+####Posiblemente librerías para el procesamiento de imágenes y datos de sensores.
 ### 5 Viabilidad
 #### 5.1 Tecnica
 #### 5.2 Operativa
