@@ -29,7 +29,9 @@ somos un equipo muy unido
 ### 2.1 A quien afecta
 Este problema afecta a varias partes como por ejemplo:
 Usuarios de Estacionamientos: Conductores que luchan por encontrar espacios de estacionamiento disponibles y personas discapacitadas que a menudo se ven excluidas de espacios reservados y tienen que luego ponerse en lugares donde no sale con su silla de ruedas.
+
 Supermercados: Experimentan problemas de congestión y la posibilidad de sanciones por no proporcionar un acceso adecuado para personas discapacitadas.
+
 Gruas y Autoridades Locales: Deben intervenir en situaciones de estacionamiento indebido, lo que puede ser costoso y consumir recursos.
 #### 2.1.1 Usuarios de Estacionamientos: 
 #### Conductores que luchan por encontrar espacios de estacionamiento disponibles y personas discapacitadas que a menudo se ven excluidas de espacios reservados.
