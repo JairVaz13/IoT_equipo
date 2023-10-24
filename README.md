@@ -3,17 +3,17 @@ somos un equipo muy unido
 
 |No|Actividad|Asignacion|Fecha de entrega|Estado[Terminado, Pendiente, Haciendo]|
 |--|--|--|--|--|
-|1.0|Definir Problemas|Amairani|20/10/2023|Pendiente|
-|2.0|Antecedentes|Dany|20/10/2023|Pendiente|
+|1.0|Definir Problemas|Amairani|20/10/2023|Haciendo|
+|2.0|Antecedentes|Dany|20/10/2023|Haciendo|
 |2.1|A quien afecta|Brandon|20/10/2023|Haciendo|
-|2.2|Que soluciones existen|Eduardo|20/10/2023|Pendiente|
-|3.0|Objetivos Generales|Jesus|20/10/2023|Pendiente|
-|3.1|Metas|Amairani|20/10/2023|Pendiente|
-|4.0|Requerimentos tecnicos|Jair|20/10/2023|Pendiente|
-|4.1|Sensores|Todos|20/10/2023|Pendiente|
-|4.2|Activadores|Todos|20/10/2023|Pendiente|
-|4.3|APIs|Todos|20/10/2023|Pendiente|
-|4.4|Librerias|Todos|20/10/2023|Pendiente|
+|2.2|Que soluciones existen|Eduardo|20/10/2023|Haciendo|
+|3.0|Objetivos Generales|Jesus|20/10/2023|Haciendo|
+|3.1|Metas|Amairani|20/10/2023|Haciendo|
+|4.0|Requerimentos tecnicos|Jair|20/10/2023|Haciendo|
+|4.1|Sensores|Todos|20/10/2023|Haciendo|
+|4.2|Activadores|Todos|20/10/2023|Haciendo|
+|4.3|APIs|Todos|20/10/2023|Haciendo|
+|4.4|Librerias|Todos|20/10/2023|Haciendo|
 |5.0|Viabilidad|Todos|20/10/2023|Pendiente|
 |5.1|Tecnica|Todos|20/10/2023|Pendiente|
 |5.2|Operativa|Todos|20/10/2023|Pendiente|
@@ -53,15 +53,15 @@ Gruas y Autoridades Locales: Deben intervenir en situaciones de estacionamiento 
 ##### La meta es lograr una que la tasa de ocupación sea eficiente y justa en los estacionamientos de supermercados, con un enfoque en la disponibilidad de los supermercados para personas discapacitadas. Esto incluye reducir el estacionamiento indebido a un mínimo aceptable.
 
 ### 4 Requerimentos tecnicos
-#### 4.1 Sensores
-####Sensores de presencia para detectar vehículos en cada plaza de estacionamiento.
-####Cámaras con capacidad de reconocimiento de placas de vehículos.
+### 4.1 Sensores
+### Sensores de presencia para detectar vehículos en cada plaza de estacionamiento.
+### Cámaras con capacidad de reconocimiento de placas de vehículos.
 ### 4.2 Activadores
-####Un sistema que pueda activar una alerta para la grúa o permitir el acceso a plazas reservadas cuando se detecte una placa válida de una persona discapacitada.
+### Un sistema que pueda activar una alerta para la grúa o permitir el acceso a plazas reservadas cuando se detecte una placa válida de una persona discapacitada.
 ### 4.3 APIs
-####API para acceder a una base de datos de conductores discapacitados y sus permisos de estacionamiento.
+### API para acceder a una base de datos de conductores discapacitados y sus permisos de estacionamiento.
 ### 4.4 Librerias
-####Posiblemente librerías para el procesamiento de imágenes y datos de sensores.
+### Posiblemente librerías para el procesamiento de imágenes y datos de sensores.
 ### 5 Viabilidad
 #### 5.1 Tecnica
 #### 5.2 Operativa
