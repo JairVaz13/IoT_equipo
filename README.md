@@ -19,6 +19,11 @@ somos un equipo muy unido
 |5.1|Tecnica|Todos|20/10/2023|Pendiente|
 |5.2|Operativa|Todos|20/10/2023|Pendiente|
 |5.3|Economia|Todos|20/10/2023|Pendiente|
+|6.0|Normas|Todos|24/10/2023|Pendiente|
+|6.1|Tramites (Documentos)|Todos|24/10/2023|Pendiente|
+|6.2|Enfermedades aceptables|Brandon|24/10/2023||Haciendo|
+|6.3|Beneficios|Todos|24/10/2023|Pendiente|
+|6.4|Costos|Todos|24/10/2023|Pendiente|
 
 ### DESIGNS DOCS
 
@@ -103,6 +108,32 @@ Una vez que se detecte un distintivo de discapacitado en una placa de coche, pue
 #### 6 Normas
 ### 6.1 Tramites (Documentos)
 ### 6.2 Enfermedades aceptables
+Movilidad reducida:
+Paraplejia o cuadriplejia.
+Amputaciones de extremidades.
+Enfermedades que afectan la movilidad, como la esclerosis múltiple o la parálisis cerebral.
+Lesiones de médula espinal.
+
+Problemas visuales:
+Ceguera total o parcial.
+Retinopatía diabética grave.
+Glaucoma avanzado.
+
+Problemas cardíacos:
+Insuficiencia cardíaca grave.
+Enfermedades cardíacas congénitas severas.
+
+Enfermedades crónicas:
+Enfermedades reumáticas graves, como artritis reumatoide avanzada.
+Enfermedades neuromusculares, como distrofia muscular.
+
+Trastornos del desarrollo:
+Trastornos del espectro autista (TEA) en su forma más grave.
+Síndrome de Down.
+
+Trastornos neurológicos:
+Esclerosis lateral amiotrófica (ELA).
+Enfermedad de Alzheimer en etapas avanzadas.
 ### 6.3 Beneficios
 ### 6.4 Costos
 ### 6.5 Notas Importantes 
