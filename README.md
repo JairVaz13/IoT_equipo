@@ -21,7 +21,7 @@ somos un equipo muy unido
 |5.3|Economia|Todos|20/10/2023|Pendiente|
 |6.0|Normas|Todos|24/10/2023|Pendiente|
 |6.1|Tramites (Documentos)|Todos|24/10/2023|Pendiente|
-|6.2|Enfermedades aceptables|Brandon|24/10/2023||Haciendo|
+|6.2|Enfermedades aceptables|Brandon|24/10/2023|Haciendo|
 |6.3|Beneficios|Todos|24/10/2023|Pendiente|
 |6.4|Costos|Todos|24/10/2023|Pendiente|
 
