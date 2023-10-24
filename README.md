@@ -59,12 +59,19 @@ Gruas y Autoridades Locales: Deben intervenir en situaciones de estacionamiento 
 ### 4.1 Requisitos
 Certificado Médico:
 Un certificado médico emitido por un profesional de la salud debidamente registrado que confirme la discapacidad. Este certificado debe incluir detalles sobre la naturaleza y gravedad de la discapacidad.
+
 Identificación del paciente: El certificado debe contener el nombre completo, fecha de nacimiento y otros datos de identificación del paciente.
+
 Diagnóstico: Debe incluir un diagnóstico médico detallado de la discapacidad, especificando su naturaleza y gravedad.
+
 Información del médico: El certificado debe contener la información del médico que lo emite, incluyendo su nombre, número de colegiatura y firma.
+
 Fecha de emisión: La fecha en que se emite el certificado debe ser claramente visible.
+
 Sello del médico: Puede requerirse el sello del médico para autenticar el certificado.
+
 Duración de la discapacidad (si aplica): Si la discapacidad es temporal, el certificado debe indicar la duración prevista de la misma.
+
 Identificación Oficial:
 Documento de identificación válido, como credencial de elector (INE), pasaporte, o cualquier otra identificación oficial con fotografía.
 
