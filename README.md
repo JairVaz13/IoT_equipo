@@ -106,7 +106,16 @@ Posiblemente librerías para el procesamiento de imágenes y datos de sensores.
 ### 5.2 Operativa
 ### 5.3 Economia
 ## 6. Normas
+
 ### 6.1 Tramites (Documentos)
+Formato de solicitud de alta de placas
+Dictamen de discapacidad 
+Acta de nacimiento
+Identificacion oficial
+Comprobante de domicilio 
+Constancia de discapacidad y funcionalidad
+Fotografias
+
 ### 6.2 Enfermedades aceptables
 Movilidad reducida:
 Paraplejia o cuadriplejia.
