@@ -38,12 +38,14 @@ Usuarios de Estacionamientos: Conductores que luchan por encontrar espacios de e
 
 Supermercados: Experimentan problemas de congestión y la posibilidad de sanciones por no proporcionar un acceso adecuado para personas discapacitadas.
 
-Gruas y Autoridades Locales: Deben intervenir en situaciones de estacionamiento indebido, lo que puede ser costoso y consumir recursos.
-### 2.1.1 Usuarios de Estacionamientos: 
+Gruas y Autoridades Locales: Deben intervenir en situaciones de estacionamiento indebido, lo que puede ser costoso y consumir recursos. 
+Usuarios de Estacionamientos: 
 Conductores que luchan por encontrar espacios de estacionamiento disponibles y personas discapacitadas que a menudo se ven excluidas de espacios reservados.
-### 2.1.2 Supermercados:
+
+Supermercados:
 Experimentan problemas de congestión y la posibilidad de sanciones por no proporcionar un acceso adecuado para personas discapacitadas.
-### 2.1.3 Gruas y Autoridades Locales: 
+
+ Gruas y Autoridades Locales: 
 Deben intervenir en situaciones de estacionamiento indebido, lo que puede ser costoso y consumir recursos. 
 
 
